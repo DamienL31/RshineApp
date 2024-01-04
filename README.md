@@ -32,10 +32,10 @@ Run the application locally by opening the `crim_appli.R` file in RStudio and cl
 
 ## Application Structure
 
-- `crim_appli.R`: Defines the user and server interface.
+- `crim_appli.R`: Defines the user and server interface
 - `global.R`: Contains the variables 
 - `Packages.R`: Includes all packages for build an application
-- www : Contains pictures
+- `wwww` : Contains pictures
 
 ## Instructions 
 
@@ -47,6 +47,6 @@ Explore, analyze, and gain valuable insights into the crime landscape of Los Ang
 
 ## Contact
  
-- [LinkedIn](https://www.linkedin.com/in/damienlauger/) 
+- [linkedin](https://www.linkedin.com/in/damien-lauger-8aa64a151)
 - [Email](damien.lauger.edu@groupe-gema.com)
 
