@@ -18,9 +18,11 @@
    git clone https://github.com/universdesdonnees/PredictCovid.git
    ```
 2. Open the project in RStudio and Packages.R : 
-check that you have the same packages as in packages.R if not below the command :  
+check that you have the same packages as in packages.R if not below the command :
+```R
 install.packages('package')
-then don't forget to load it
+3. Then don't forget to load it :
+```R
 library(package)
 
 ## Usage
