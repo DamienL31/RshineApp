@@ -34,7 +34,8 @@ Run the application locally by opening the `crim_appli.R` file in RStudio and cl
 
 - `crim_appli.R`: Defines the user and server interface.
 - `global.R`: Contains the variables 
-- `Packages.R`: Includes all packages for build an application.
+- `Packages.R`: Includes all packages for build an application
+- www : Contains pictures
 
 ## Instructions 
 
