@@ -3,6 +3,9 @@
 
 *Welcome to the Los Angeles Crimes app, a comprehensive tool for exploring crime data in the city of Los Angeles. This Shiny web application provides visualizations and analyses by LA districts to help users understand crime trends and variations over time and across districts.*
 
+*View of application*
+<img width="944" alt="Capture" src="https://github.com/DamienL31/RshineApp/assets/152622955/9f937278-d26e-4177-8da1-7a7bd29fd74c">
+
 ## Getting Started
 
 ### Prerequisites
