@@ -4,6 +4,7 @@
 *Welcome to the Los Angeles Crimes app, a comprehensive tool for exploring crime data in the city of Los Angeles. This Shiny web application provides visualizations and analyses by LA districts to help users understand crime trends and variations over time and across districts.*
 
 *View of application*
+
 <img width="944" alt="Capture" src="https://github.com/DamienL31/RshineApp/assets/152622955/9f937278-d26e-4177-8da1-7a7bd29fd74c">
 
 ## Getting Started
@@ -20,18 +21,22 @@
    ```sh
    git clone [https://github.com/DamienL31/RshineApp/tree/main]
    ```
-2. Open the project in RStudio and Packages.R : 
+2. Download the repo, store the files in a folder and then create subfolders "www" in which you can put photos, "data" which will contain your data.
+   
+3. Open Packages.R : 
 check that you have the same packages as in packages.R if not below the command :
 ```R
 install.packages('package')
 ```
-3. Then don't forget to load it :
+Then don't forget to load it :
 ```R
 library(package)
 ```
-## Usage
+4. Run the "Global.r" file, then change the path of the first line of code to access data.frame to your path (where "data" is stored).
 
-Run the application locally by opening the `crim_appli.R` file in RStudio and clicking 'Run App'. 
+5. Launch the "Crim_Appli.R" file, replace the first 2 lines of the "source" path with your own (where you've stored the repo) so that the Packages.R and Global.R files run.
+
+6. Run the application locally by opening the `crim_appli.R` file in RStudio and clicking 'Run App'. 
 
 ## Application Structure
 
