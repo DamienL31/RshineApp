@@ -15,16 +15,17 @@
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/universdesdonnees/PredictCovid.git
+   git clone [https://github.com/DamienL31/RshineApp/tree/main]
    ```
 2. Open the project in RStudio and Packages.R : 
 check that you have the same packages as in packages.R if not below the command :
 ```R
 install.packages('package')
+```
 3. Then don't forget to load it :
 ```R
 library(package)
-
+```
 ## Usage
 
 Run the application locally by opening the `crim_appli.R` file in RStudio and clicking 'Run App'. 
